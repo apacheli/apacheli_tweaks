@@ -1,7 +1,1 @@
-{
-  "parent": "block/cube_column_mirrored",
-  "textures": {
-    "end": "block/infested_deepslate_top",
-    "side": "block/infested_deepslate"
-  }
-}
+{"parent":"block/cube_column_mirrored","textures":{"end":"block/infested_deepslate_top","side":"block/infested_deepslate"}}

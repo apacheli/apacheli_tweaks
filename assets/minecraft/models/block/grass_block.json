@@ -1,7 +1,1 @@
-{
-  "parent": "block/leaves",
-  "textures": {
-    "particle": "block/dirt",
-    "all": "block/grass_block_top"
-  }
-}
+{"parent":"block/leaves","textures":{"particle":"block/dirt","all":"block/grass_block_top"}}
