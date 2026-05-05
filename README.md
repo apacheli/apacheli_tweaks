@@ -1,5 +1,7 @@
 # Apacheli Tweaks
 
-A utility resource pack for improving the survival experience.
+My custom resource pack.
 
-https://apache.li/
+## Credits
+
+Thanks to VanillaTweaks for some inspiration.
